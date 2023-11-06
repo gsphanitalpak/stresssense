@@ -70,7 +70,7 @@ To get started with StressSense, ensure that you meet the following prerequisite
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="/Images/ss_004.png" width="300">
-        <img src "/Images/ss_005.png" width="300">
+        <img src="/Images/ss_005.png" width="300">
         <img src="/Images/ss_006.png" width="300">
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
