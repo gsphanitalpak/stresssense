@@ -1,13 +1,13 @@
 # StressSense - IoT-Enabled Stress Level Prediction and Management
 
-**StressSense** is an innovative platform that integrates IoT and machine learning to predict and manage stress levels effectively. By leveraging IoT devices such as the Raspberry Pi and the Grove GSR v2.0 sensor, StressSense provides real-time stress level predictions based on essential physiological parameters.
+![StressSense Banner](/images/stresssense-banner.jpg)
 
-![StressSense IoT Setup](/images/stresssense-setup.jpg)
+**StressSense** is an innovative platform that seamlessly integrates the Internet of Things (IoT) and advanced machine learning to predict and effectively manage stress levels. By harnessing IoT devices such as the Raspberry Pi and the Grove GSR v2.0 sensor, StressSense offers real-time stress level predictions based on essential physiological parameters.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Key Features](#key-features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -23,23 +23,25 @@
 
 ## Introduction
 
-StressSense is designed to monitor and predict stress levels by analyzing physiological parameters, including heart rate, body temperature, blood oxygen levels, and GSR (Galvanic Skin Response) data. It uses a combination of IoT devices and machine learning algorithms to provide valuable insights into stress management.
+StressSense is designed to monitor and predict stress levels by analyzing vital physiological parameters, including heart rate, body temperature, blood oxygen levels, and GSR (Galvanic Skin Response) data. It uses a dynamic blend of IoT devices and advanced machine learning algorithms to provide users with valuable insights into stress management.
 
-## Features
+## Key Features
 
-- **Real-time Stress Prediction**: StressSense provides real-time stress level predictions to help users manage their well-being effectively.
+- **Real-time Stress Prediction**: StressSense offers real-time stress level predictions, enabling users to proactively manage their well-being.
 
-- **Customizable Alerts**: Users can configure stress level thresholds and receive alerts when stress levels exceed the defined limits.
+- **Customizable Alerts**: Users can configure stress level thresholds and receive real-time alerts when stress levels surpass the defined limits.
 
-- **Historical Data Analysis**: StressSense keeps a history of stress levels, enabling users to track their stress patterns over time.
+- **Historical Data Analysis**: StressSense maintains a comprehensive history of stress levels, empowering users to gain insights into their stress patterns over time.
 
-- **User-Friendly Interface**: The platform offers an intuitive and easy-to-use interface for stress level monitoring.
+- **User-Friendly Interface**: The platform boasts an intuitive and user-centric interface designed for effortless stress level monitoring.
 
 ## Getting Started
 
 ### Prerequisites
 
-- An IoT setup with a Raspberry Pi and the Grove GSR v2.0 sensor.
+To get started with StressSense, ensure that you meet the following prerequisites:
+
+- An IoT setup equipped with a Raspberry Pi and the Grove GSR v2.0 sensor.
 - Raspberry Pi OS (Raspbian) installed on your Raspberry Pi.
 - Python 3.x installed on the Raspberry Pi.
 - (Add any additional prerequisites if required)
