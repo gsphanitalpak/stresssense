@@ -1,8 +1,3 @@
-# stresssense
-IoT enabled platform for stress level prediction and management
-
-Integration IoT with ML and predicting the stress level of a person from heart rate, body temperature, blood oxygen levels, Sweating level using (RaspberryPi and Grove GSR v2.0)
-
 # StressSense - IoT-Enabled Stress Level Prediction and Management
 
 **StressSense** is an innovative platform that integrates IoT and machine learning to predict and manage stress levels effectively. By leveraging IoT devices such as the Raspberry Pi and the Grove GSR v2.0 sensor, StressSense provides real-time stress level predictions based on essential physiological parameters.
