@@ -62,15 +62,16 @@ To get started with StressSense, ensure that you meet the following prerequisite
 
 ## UI Screenshots
 
-![StressSense UI 1](/Images/ss_001.png =200x)
-![StressSense UI 2](/Images/ss_002.png =200x)
-![StressSense UI 3](/Images/ss_003.png =200x)
-![StressSense UI 4](/Images/ss_004.png =200x)
-![StressSense UI 5](/Images/ss_005.png =200x)
-![StressSense UI 6](/Images/ss_006.png =200x)
-![StressSense UI 7](/Images/ss_007.png =200x)
-![StressSense UI 8](/Images/ss_008.png =200x)
-![StressSense UI 9](/Images/ss_009.png =200x)
+<img src="/Images/ss_001.png" width="300">
+<img src="/Images/ss_002.png" width="300">
+<img src="/Images/ss_003.png" width="300">
+<img src="/Images/ss_004.png" width="300">
+<img src="/Images/ss_005.png" width="300">
+<img src="/Images/ss_006.png" width="300">
+<img src="/Images/ss_007.png" width="300">
+<img src="/Images/ss_008.png" width="300">
+<img src="/Images/ss_009.png" width="300">
+
 
 ## Contributing
 
