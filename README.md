@@ -1,6 +1,6 @@
 # StressSense - IoT-Enabled Stress Level Prediction and Management
 
-![StressSense Banner](/images/stresssense-banner.jpg)
+![StressSense Banner](/Images/ss_cover)
 
 **StressSense** is an innovative platform that seamlessly integrates the Internet of Things (IoT) and advanced machine learning to predict and effectively manage stress levels. By harnessing IoT devices such as the Raspberry Pi and the Grove GSR v2.0 sensor, StressSense offers real-time stress level predictions based on essential physiological parameters.
 
