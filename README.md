@@ -62,15 +62,24 @@ To get started with StressSense, ensure that you meet the following prerequisite
 
 ## UI Screenshots
 
-<img src="/Images/ss_001.png" width="300">
-<img src="/Images/ss_002.png" width="300">
-<img src="/Images/ss_003.png" width="300">
-<img src="/Images/ss_004.png" width="300">
-<img src="/Images/ss_005.png" width="300">
-<img src="/Images/ss_006.png" width="300">
-<img src="/Images/ss_007.png" width="300">
-<img src="/Images/ss_008.png" width="300">
-<img src="/Images/ss_009.png" width="300">
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/Images/ss_001.png" width="300">
+        <img src="/Images/ss_002.png" width="300">
+        <img src="/Images/ss_003.png" width="300">
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/Images/ss_004.png" width="300">
+        <img src "/Images/ss_005.png" width="300">
+        <img src="/Images/ss_006.png" width="300">
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/Images/ss_007.png" width="300">
+        <img src="/Images/ss_008.png" width="300">
+        <img src="/Images/ss_009.png" width="300">
+    </div>
+</div>
+
 
 
 ## Contributing
