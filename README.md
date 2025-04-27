@@ -48,12 +48,11 @@ To get started with StressSense, ensure that you meet the following prerequisite
 
 ### Installation
 
-1. Clone the StressSense repository to your Raspberry Pi.
+Clone the StressSense repository to your Raspberry Pi.
 
    ```shell
-   git clone https://github.com/yourusername/stresssense.git
-
-2. (Add detailed installation instructions)
+   git clone https://github.com/gsphanitalpak/stresssense.git
+```
 
 ## Usage
 
